@@ -1,3 +1,5 @@
+NOTE: EmailSender is not uploaded, you will have to input your gmail along with gmail app key. DON'T use gmail account password
+
 The basic layout when you run the MainFrame.java file will look like this:
 
 <img width="1366" height="727" alt="EnterDetails" src="https://github.com/user-attachments/assets/521172bd-4de7-4057-838b-fe84270f3d6b" />
